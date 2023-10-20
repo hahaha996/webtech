@@ -25,5 +25,5 @@ Dieses Projekt zielt darauf ab, eine interaktive Plattform zu schaffen, auf der 
 
 Das Website wird beispielweise so aussehen:
 
-![](C:\Users\hahaha\Downloads\webtech\webtech\Demo.jpeg)
+![](Demo.jpeg)
 
